@@ -6,7 +6,7 @@ The project involves creating robust automated test suites, performing manual te
 
 Installation :
 To install and run this project locally, follow these steps:
-1. Clone the repository from GitHub:
+1. Clone the repository from GitHub . [ master branch ]
 2. You can run the project directly with testNG.xml file.
 3. You can even run the project using maven commands.
 
@@ -15,6 +15,7 @@ Features :
 2. Validating the mandatory fields of the form.
 3. Validating the options of the dropdowns.
 4. It has 7 test validations.
+5. Used features like Explicit Wait , Data Provider , TestNG , JavascriptExecutor , Java Selenium etc.
 
 Contributing :
 Contributions are welcome! To contribute to this project, please follow these steps:
